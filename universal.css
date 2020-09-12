@@ -1,0 +1,19 @@
+
+@font-face{
+    font-family: Mon;
+    src: url('FONTS/Montserrat-Regular.ttf');
+}
+
+* {
+    font-family: Mon;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --blue: #00a5eb;
+    --gray:  #191A18;
+    --font-standard: Mon;
+    --text-color: #ddd;
+}
